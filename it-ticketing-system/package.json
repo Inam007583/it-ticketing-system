@@ -1,6 +1,6 @@
 {
   "name": "it-ticketing-system",
- "homepage": "https://inam007583.github.io/it-ticketing-system/",
+  "homepage": "https://inam007583.github.io/it-ticketing-system/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
